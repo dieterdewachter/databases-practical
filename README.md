@@ -17,13 +17,12 @@ In order to *[get started](./docs/get-started.md)*, *[commit changes](./docs/com
 ## Prerequisites
 
 Finished | Exercise
----------|----------|---------
+---------|----------
 :x: | [Software Installation](01-software-installation/index.md)
 :x: | [Example Databases](02-example-databases/index.md)
 
 ## Exercises
 
 Finished | Exercise
----------|----------|---------
+---------|----------
 :x: | [Creating Tables](03-create-databases/index.md)
-
