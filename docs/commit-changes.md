@@ -8,7 +8,7 @@ If you finish an exercise or assignment you need to update the repositories [REA
 
 Changes can be committed and pushed back to GitHub using the terminal.
 
-Traverse to your local `web-essentials-practical-<username>` directory and type `powershell` in the location bar as done previously in [section Get started](./get-started.md).
+Traverse to your local `databases-practical-<username>` directory and type `powershell` in the location bar as done previously in [section Get started](./get-started.md).
 
 1. Add all changed files: `git add .`
 2. Commit the files and add a message: `git commit -m "My message goes here"`

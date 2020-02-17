@@ -9,16 +9,16 @@ git pull git@github.com:vives-web-essentials-2019/exercises.git master
 To pull the latest updates you will first need to add the original repo on which this one was based. This only needs to be done once for every cloned instance:
 
 ```shell
-git remote add base git@github.com:vives-web-essentials-2019/exercises.git
+git remote add base git@github.com:vives-databases-2020/databases-practical.git
 ```
 
 `base` is the name of remote repo. Now you should see two remotes when issuing the command `git remote -v`. For example:
 
 ```text
-base     git@github.com:vives-web-essentials-2019/exercises.git (fetch)
-base     git@github.com:vives-web-essentials-2019/exercises.git (push)
-origin  git@github.com:vives-introduction-to-programming-2019/web-essentials-practical-sillevl.git (fetch)
-origin  git@github.com:vives-introduction-to-programming-2019/web-essentials-practical-sillevl.git (push)
+base     git@github.com:vives-databases-2020/databases-practical.git (fetch)
+base     git@github.com:vives-databases-2020/databases-practical.git (push)
+origin  git@github.com:vives-databases-2020/databases-practical-sillevl.git (fetch)
+origin  git@github.com:vives-databases-2020/databases-practical-sillevl.git (push)
 ```
 
 ## Instructions
