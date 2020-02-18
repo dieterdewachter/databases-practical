@@ -105,7 +105,7 @@ Create a table that can manage custom computer configurations. The systems have 
   - Bluetooth
   - Audio jack
 - Price
-- Release data
+- Release date
 - Title
 - Description
 
