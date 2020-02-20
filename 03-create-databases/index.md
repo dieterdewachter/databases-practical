@@ -1,6 +1,6 @@
 # Creating Tables
 
-Create a database called `exercise-03` and create the tables as described below.
+Create a database called `exercise_03` and create the tables as described below.
 Give the queries that will create those tables, and verify there structure with a `DESCRIBE [table]` query.
 
 - Choose the names of the databases and columns. Make there names logical and descriptive.
