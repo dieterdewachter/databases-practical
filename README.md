@@ -2,8 +2,6 @@
 
 **Name**: <!-- TODO: fill in your full name here, firstname and lastname -->
 
-**URL**: <!-- TODO: paste the full netlify URL to the solution of this exercise  -->
-
 This repository contains the exercises and assignments that accompany the Databases course at the VIVES University of Applied Sciences at Bruges.
 
 ## Instructions
@@ -26,3 +24,4 @@ Finished | Exercise
 Finished | Exercise
 ---------|----------
 :x: | [Creating Tables](03-create-databases/index.md)
+:x: | [Data CRUD](04-data-crud/README.md)
