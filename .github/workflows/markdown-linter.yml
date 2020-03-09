@@ -21,6 +21,6 @@ jobs:
     - name: Lint changelog file
       uses: avto-dev/markdown-lint@v1
       with:
-        rules: '.github/workflows/markdown-linter/rules.js'
-        config: '.github/workflows/markdown-linter/config.yaml'
+        rules: '.github/markdown-linter/rules.js'
+        config: '.github/markdown-linter/config.yaml'
         args: '**/*.md'
