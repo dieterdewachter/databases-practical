@@ -14,13 +14,14 @@ _Please don't choose a destination directory that is nested very deeply. The str
 ![Opening PowerShell in directory](./img/powershell.png)
 
 Issue the git clone command followed by the url you copied.
-```
+
+```shell
 git clone <place-ssh-url-here>
 ```
 
 You should get the following output:
 
-```
+```shell
 Cloning into 'databases-practical-sillevl'...
 Warning: Permanently added the RSA host key for IP address '192.30.253.113' to the list of known hosts.
 remote: Enumerating objects: 185, done.
