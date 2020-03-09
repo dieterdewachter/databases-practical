@@ -1,6 +1,7 @@
+# Databases: Exercises and Assignments
+
 ![Markdown Linter](https://github.com/vives-databases-2020/databases-practical/workflows/Markdown%20Linter/badge.svg?branch=master)
 
-# Databases: Exercises and Assignments
 
 **Name**: <!-- TODO: fill in your full name here, firstname and lastname -->
 
