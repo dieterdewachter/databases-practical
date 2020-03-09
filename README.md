@@ -2,7 +2,6 @@
 
 ![Markdown Linter](https://github.com/vives-databases-2020/databases-practical/workflows/Markdown%20Linter/badge.svg?branch=master)
 
-
 **Name**: <!-- TODO: fill in your full name here, firstname and lastname -->
 
 This repository contains the exercises and assignments that accompany the Databases course at the VIVES University of Applied Sciences at Bruges.
