@@ -22,5 +22,5 @@ jobs:
       uses: avto-dev/markdown-lint@v1
       with:
         #rules: '/lint/rules/changelog.js'
-        #config: '/lint/config/changelog.yml'
+        config: '.github/workflows/markdown-linter-config.yaml'
         args: './README.md'
