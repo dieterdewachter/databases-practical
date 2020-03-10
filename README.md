@@ -25,3 +25,4 @@ Finished | Exercise
 ---------|----------
 :x: | [Creating Tables](03-create-databases/index.md)
 :x: | [Data CRUD](04-data-crud/README.md)
+:x: | [Retreiving Data](05-retreiving-data/README.md)
