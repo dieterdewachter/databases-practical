@@ -58,7 +58,7 @@ Note: read the questions thoroughly, and respect the order of columns as given i
 
    ```
 
-2. Create a class list. Select only the R-Number, firstname and lastname of all students (no scores).
+1. Create a class list. Select only the R-Number, firstname and lastname of all students (no scores).
 
    Query:
 
@@ -72,7 +72,7 @@ Note: read the questions thoroughly, and respect the order of columns as given i
 
    ```
 
-3. Create a alphabetical class list. Select lastname and firstname. Order the list alphabetically on the last name.
+1. Create a alphabetical class list. Select lastname and firstname. Order the list alphabetically on the last name.
 
    Query:
 
@@ -86,7 +86,7 @@ Note: read the questions thoroughly, and respect the order of columns as given i
 
    ```
 
-4. Generate a list of the firstname, lastname and score of question 1. Order the list by score of question 1 from greatest to least.
+1. Generate a list of the firstname, lastname and score of question 1. Order the list by score of question 1 from greatest to least.
 
    Query:
 
@@ -100,7 +100,7 @@ Note: read the questions thoroughly, and respect the order of columns as given i
 
    ```
 
-5. Generate a list of lastname, firstname and score of question 3. Order the list by score of question 3 from least to greatest.
+1. Generate a list of lastname, firstname and score of question 3. Order the list by score of question 3 from least to greatest.
 
    Query:
 
@@ -114,7 +114,7 @@ Note: read the questions thoroughly, and respect the order of columns as given i
 
    ```
 
-6. Generate a list of only firstname and lastname. Order the list by score of question 2 from greatest to least. Do not show the scores.
+1. Generate a list of only firstname and lastname. Order the list by score of question 2 from greatest to least. Do not show the scores.
 
    Query:
 
@@ -128,7 +128,7 @@ Note: read the questions thoroughly, and respect the order of columns as given i
 
    ```
 
-7. Generate a list of firstname, lastname of students that did not pass for question 1. (Only students that have a score less than 10).
+1. Generate a list of firstname, lastname of students that did not pass for question 1. (Only students that have a score less than 10).
 
    Query:
 
@@ -142,7 +142,7 @@ Note: read the questions thoroughly, and respect the order of columns as given i
 
    ```
 
-8. Generate a list of firstname, lastname of students that did pass for question 3. (Only students that have a score greater or equal than 10).
+1. Generate a list of firstname, lastname of students that did pass for question 3. (Only students that have a score greater or equal than 10).
 
    Query:
 
@@ -156,7 +156,7 @@ Note: read the questions thoroughly, and respect the order of columns as given i
 
    ```
 
-9. Generate a list of lastname, firstname of students that did not pass for question 2. Order the list alphabetically on lastname.
+1. Generate a list of lastname, firstname of students that did not pass for question 2. Order the list alphabetically on lastname.
 
    Query:
 
@@ -170,7 +170,7 @@ Note: read the questions thoroughly, and respect the order of columns as given i
 
    ```
 
-10. Generate a list of lastname, firstname of students that did not pass for question 2. Order the list alphabetically on lastname.
+1. Generate a list of students (firstname and lastname) that could tolerate the score of question 3. (Only students that have a score between 8 and 10). Order the list by score from least to greatest.
 
    Query:
 
@@ -184,7 +184,7 @@ Note: read the questions thoroughly, and respect the order of columns as given i
 
    ```
 
-11. Generate a list of students (firstname and lastname) that could tolerate the score of question 3. (Only students that have a score between 8 and 10). Order the list by score from least to greatest.
+1. Generate a list of students (firstname and lastname) together with their 'total score' on a total of 60.
 
    Query:
 
@@ -198,7 +198,7 @@ Note: read the questions thoroughly, and respect the order of columns as given i
 
    ```
 
-11. Generate a list of students (firstname and lastname) together with their 'total score' on a total of 60.
+1. Generate a list of students (firstname and lastname) together with their 'total score' on a total of 20.
 
    Query:
 
@@ -212,7 +212,7 @@ Note: read the questions thoroughly, and respect the order of columns as given i
 
    ```
 
-12. Generate a list of students (firstname and lastname) together with their 'total score' on a total of 20.
+1. Generate a list of students (firstname and lastname) together with their 'total score' on 20, ordered by their total score from greatest to least.
 
    Query:
 
@@ -226,7 +226,7 @@ Note: read the questions thoroughly, and respect the order of columns as given i
 
    ```
 
-13. Generate a list of students (firstname and lastname) together with their 'total score' on 20, ordered by their total score from greatest to least.
+1. Generate a list of firstname, lastname, total score on 20. Only show students that did not pass on their total score (score less than 10). Order the list by their lastname alphabetically.
 
    Query:
 
@@ -240,21 +240,7 @@ Note: read the questions thoroughly, and respect the order of columns as given i
 
    ```
 
-14. Generate a list of firstname, lastname, total score on 20. Only show students that did not pass on their total score (score less than 10). Order the list by their lastname alphabetically.
-
-   Query:
-
-   ```sql
-
-   ```
-
-   Result:
-
-   ```sql
-
-   ```
-
-15. Give first and lastname and total score of the 3 best students. Order by their total score from greatest to least.
+1. Give first and lastname and total score of the 3 best students. Order by their total score from greatest to least.
 
    Query:
 
