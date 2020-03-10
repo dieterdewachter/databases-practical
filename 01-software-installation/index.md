@@ -62,4 +62,3 @@ Visual Studio Code will be our text and code editor of choice.
 [code.visualstudio.com/](https://code.visualstudio.com/)
 
 [Installation guide](https://vives.gitbook.io/software-installation-guide/visual-studio-code)
-
