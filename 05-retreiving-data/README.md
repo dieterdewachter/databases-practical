@@ -54,7 +54,7 @@ Note: read the questions thoroughly, and respect the order of columns as given i
 
    Result:
 
-   ```sql
+   ```text
 
    ```
 
@@ -68,7 +68,7 @@ Note: read the questions thoroughly, and respect the order of columns as given i
 
    Result:
 
-   ```sql
+   ```text
 
    ```
 
@@ -82,7 +82,7 @@ Note: read the questions thoroughly, and respect the order of columns as given i
 
    Result:
 
-   ```sql
+   ```text
 
    ```
 
@@ -96,7 +96,7 @@ Note: read the questions thoroughly, and respect the order of columns as given i
 
    Result:
 
-   ```sql
+   ```text
 
    ```
 
@@ -110,7 +110,7 @@ Note: read the questions thoroughly, and respect the order of columns as given i
 
    Result:
 
-   ```sql
+   ```text
 
    ```
 
@@ -124,7 +124,7 @@ Note: read the questions thoroughly, and respect the order of columns as given i
 
    Result:
 
-   ```sql
+   ```text
 
    ```
 
@@ -138,7 +138,7 @@ Note: read the questions thoroughly, and respect the order of columns as given i
 
    Result:
 
-   ```sql
+   ```text
 
    ```
 
@@ -152,7 +152,7 @@ Note: read the questions thoroughly, and respect the order of columns as given i
 
    Result:
 
-   ```sql
+   ```text
 
    ```
 
@@ -166,7 +166,7 @@ Note: read the questions thoroughly, and respect the order of columns as given i
 
    Result:
 
-   ```sql
+   ```text
 
    ```
 
@@ -180,7 +180,7 @@ Note: read the questions thoroughly, and respect the order of columns as given i
 
    Result:
 
-   ```sql
+   ```text
 
    ```
 
@@ -194,7 +194,7 @@ Note: read the questions thoroughly, and respect the order of columns as given i
 
    Result:
 
-   ```sql
+   ```text
 
    ```
 
@@ -208,7 +208,7 @@ Note: read the questions thoroughly, and respect the order of columns as given i
 
    Result:
 
-   ```sql
+   ```text
 
    ```
 
@@ -222,7 +222,7 @@ Note: read the questions thoroughly, and respect the order of columns as given i
 
    Result:
 
-   ```sql
+   ```text
 
    ```
 
@@ -236,7 +236,7 @@ Note: read the questions thoroughly, and respect the order of columns as given i
 
    Result:
 
-   ```sql
+   ```text
 
    ```
 
@@ -250,6 +250,6 @@ Note: read the questions thoroughly, and respect the order of columns as given i
 
    Result:
 
-   ```sql
+   ```text
 
    ```
