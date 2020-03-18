@@ -78,7 +78,7 @@ SELECT prod_id, prod_desc FROM products;
    1. Do you need to provide a `name`? **ANSWER HERE**
    2. Do you need to provide a `lastname`? **ANSWER HERE**
    3. Do you need to provide an `email`? **ANSWER HERE**
-   4. Wha is the maximal length of an password? **ANSWER HERE**
+   4. What is the maximal length of an password? **ANSWER HERE**
 
 4. Give a list of all names of the `games`.
 
