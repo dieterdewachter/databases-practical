@@ -7,7 +7,7 @@ Import the [`gamereviews_example.sql`](gamereviews_example.sql) file in your dat
 Execute the following command in this project directory with the `mysql` client:
 
 ```sql
-source gamereview_example.sql
+source gamereviews_example.sql
 ```
 
 Answer every question with:
