@@ -47,16 +47,6 @@ SELECT prod_id, prod_desc FROM products;
 14 rows in set (0.00 sec)
 ```
 
-### Get Exercise updates
-
-Exercise instructions will be added. To get the latest instructions you need to pull them into your own project. This can be done with the following command:
-
-```shell
-git pull https://github.com/vives-databases-2019/spacex-database master
-```
-
-This will add or update the exercise.md file and its dependencies in your own project.
-
 ## Exercise
 
 1. Amount of launches
