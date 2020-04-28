@@ -1,6 +1,6 @@
 # MySQL permissions
 
-The forta company has some employees that need access to the database. 
+The forta company has some employees that need access to the database.
 The different users have need different permissions depending on their job.
 
 1. Add the users to the database with the following credentials
