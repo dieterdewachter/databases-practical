@@ -30,3 +30,4 @@ Finished | Exercise
 :x: | [Retreiving Data](05-retreiving-data/README.md)
 :x: | [Game Review Database](06-gamereview-database/README.md)
 :x: | [SpaceX Database](07-spacex-database/README.md)
+:x: | [Users and Privileges](08-users-and-privileges/README.md)
