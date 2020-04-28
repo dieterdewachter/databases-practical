@@ -41,6 +41,11 @@ user: *bobintje* (accountancy), password: *letmein*
 
 ```
 
+## Try it out
+
+To test your results, you can try to connect with the newly created users and
+test a query that is allowed, and try a query that is not allowed.
+
 ## Report
 
 When you are ready and submitted the exercise, make sure to fill in the
