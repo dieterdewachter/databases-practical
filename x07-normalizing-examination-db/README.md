@@ -8,7 +8,7 @@ The ER-diagram describes a possible database design for managing students, exami
 
 You can use [Lucidchart.com](https://www.lucidchart.com) to draw the diagrams.
 
-Describe the steps you need to follow to get the database in NF1, NF2 and NF3 in the following chapters.
+Describe the steps you need to follow to get the database in NF1 and NF2.
 
 ## Normalizing the database
 
@@ -17,10 +17,6 @@ Describe the steps you need to follow to get the database in NF1, NF2 and NF3 in
 <!-- TODO: describe the steps you followed and show the resulting ER diagram -->
 
 ### Converting to the first normal form (NF2)
-
-<!-- TODO: describe the steps you followed and show the resulting ER diagram -->
-
-### Converting to the first normal form (NF3) (optional)
 
 <!-- TODO: describe the steps you followed and show the resulting ER diagram -->
 

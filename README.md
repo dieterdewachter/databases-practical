@@ -36,6 +36,10 @@ Finished | Exercise
 
 Finished | Exercise
 ---------|----------
-:x: | [ER Diagrams](x01-er-diagrams/README.md)
-:x: | [Normalization](x02-normalization/README.md)
-:x: | [Normalization and ER diagrams](x03-normalization-2/README.md)
+:x: | [Understanding ER diagrams](x01-understanding-er-diagrams/README.md)
+:x: | [Creating an ER diagram](x02-creating-er-diagram/README.md)
+:x: | [Designing an ER diagram](x03-designing-er-diagram/README.md)
+:x: | [Normalizing a temperature database](x04-normalizing-temperature-db/README.md)
+:x: | [Normalizing a Netflix database](x05-normalizing-netflix-db/README.md)
+:x: | [Normalizing a study program database](x06-normalizing-study-program-db/README.md)
+:x: | [Normalizing an examination database](x07-normalizing-examination-db/README.md)
